@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>ALTMENU</h1>
+  <h1>ALT MENU</h1>
   <p>Windows system tool</p>
   <img src="https://user-images.githubusercontent.com/76649588/200175486-e2d8fd40-cb74-487a-97df-5c955e7107c3.png" width=800px>
 </div>
