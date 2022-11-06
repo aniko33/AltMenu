@@ -8,21 +8,21 @@
 
 ## Index
 
-- Features
+- [Features](#features)
 
-- Installation
+- [Installation](#installation)
 
-- Source code
+- [Source code](source-code)
   
-  - PIP
+  - [PIP](#pip)
   
-  - Running
+  - [Running](#running)
 
-- License
+- [License](license)
 
-- About fork
+- [About fork](about-fork)
 
-- Images
+- [Images](image)
 
 ## Features
 
