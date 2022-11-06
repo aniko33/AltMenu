@@ -68,7 +68,7 @@
 
 ## Installation
 
-You can install the .exe file from "[releases](https://aniko33/AltMenu/releases)". 
+You can install the .exe file from "[releases](https://github.com/aniko33/AltMenu/releases)". 
 
 ## Source code
 
