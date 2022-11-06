@@ -68,11 +68,11 @@
 
 ## Installation
 
-You can install the .exe file from "releases". 
+You can install the .exe file from "[releases](https://aniko33/AltMenu/releases)". 
 
 ## Source code
 
-Before starting, make sure you have Python installed: guide.
+Before starting, make sure you have [Python](https://python.com) installed: [guide](https://www.youtube.com/watch?v=Kn1HF3oD19c).
 
 ### PIP
 
@@ -88,7 +88,7 @@ python main.py
 
 ## License
 
-#### This program is protected by MiT license.
+#### This program is protected by [MiT license](License.txt).
 
 
 
