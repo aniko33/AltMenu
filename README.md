@@ -12,17 +12,17 @@
 
 - [Installation](#installation)
 
-- [Source code](source-code)
+- [Source code](#source-code)
   
   - [PIP](#pip)
   
   - [Running](#running)
 
-- [License](license)
+- [License](#license)
 
-- [About fork](about-fork)
+- [About fork](#about-fork)
 
-- [Images](image)
+- [Images](#image)
 
 ## Features
 
