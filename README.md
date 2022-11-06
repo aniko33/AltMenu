@@ -1,7 +1,7 @@
 <div align="center">
   <h1>ALTMENU</h1>
   <p>Windows system tool</p>
-  <img src="https://user-images.githubusercontent.com/76649588/200170221-28223f35-3238-424a-980d-d7afbc98b103.png" width=800px>
+  <img src="https://user-images.githubusercontent.com/76649588/200175486-e2d8fd40-cb74-487a-97df-5c955e7107c3.png" width=800px>
 </div>
 
 ---
